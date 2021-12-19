@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Mathias Borgmalm | uses</title>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; font-src 'self'; img-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline'; style-src 'self'">
     <meta name="description" content="A page detailing what Mathias Borgmalm uses as a web developer.">
 </svelte:head>
 

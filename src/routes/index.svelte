@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Mathias Borgmalm | Home</title>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; font-src 'self'; img-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline'; style-src 'self'">
   <meta name="description" content="The start page of Swedish front end developer Mathias Borgmalm">
 </svelte:head>
 
