@@ -11,14 +11,14 @@
         <p>
         I have five years of experience working with HTML, CSS and JavaScript. When I'm not writing code, I enjoy <a href="https://last.fm/user/MeTRoD">listening to music</a>, <a href="https://www.discogs.com/user/MateBoy/collection">collecting vinyl records</a>, <a href="https://howlongtobeat.com/user?n=MateBoy">playing video games</a>, <a href="https://letterboxd.com/MateBoy/">and watching movies</a>.
         </p>
-        <!-- <p>
-        There's also a <g-link to="/blog/">blog</g-link> here where I hopefully will publish stuff semi-regularly.
-        </p> -->
         <p>
         Currently I work as a consultant at <a href="https://www.bontouch.com">Bontouch</a>, via <a href="https://nexergroup.com">Nexer</a>.
         </p>
     </div>
-    <img src="./assets/memoji2.png" class="intro__image" alt="Me as a Memoji" width="250" height="250" />
+    <picture>
+      <source srcset="./assets/memoji2.webp" type="image/webp">
+      <img src="./assets/memoji2.png" class="intro__image" alt="Me as a Memoji" width="250" height="250">
+    </picture>
 </div>
 
 <style lang="scss">
