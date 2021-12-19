@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Mathias Borgmalm | Home</title>
+  <meta name="description" content="The start page of Swedish front end developer Mathias Borgmalm">
 </svelte:head>
 
 <div class="intro">
@@ -17,7 +18,7 @@
         Currently I work as a consultant at <a href="https://www.bontouch.com">Bontouch</a>, via <a href="https://nexergroup.com">Nexer</a>.
         </p>
     </div>
-    <img src="./assets/memoji2.png" class="intro__image" alt="Me as a Memoji" />
+    <img src="./assets/memoji2.png" class="intro__image" alt="Me as a Memoji" width="250" height="250" />
 </div>
 
 <style lang="scss">

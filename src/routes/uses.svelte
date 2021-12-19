@@ -1,5 +1,6 @@
 <svelte:head>
 	<title>Mathias Borgmalm | uses</title>
+    <meta name="description" content="A page detailing what Mathias Borgmalm uses as a web developer.">
 </svelte:head>
 
 <h1>/uses</h1>
