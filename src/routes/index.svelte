@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Mathias Borgmalm | Home</title>
+</svelte:head>
+
 <div class="intro">
     <div class="intro__text">
         <h1 class="kanji">神贈</h1>

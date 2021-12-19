@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Mathias Borgmalm | uses</title>
+</svelte:head>
+
 <h1>/uses</h1>
 <p>A list of hardware and software I use in my day to day life as a web developer.</p>
 <p>More of these pages from other developers can be found <a href="https://uses.tech">here</a>.</p>
