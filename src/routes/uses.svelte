@@ -1,7 +1,7 @@
 <svelte:head>
-	<title>Mathias Borgmalm | uses</title>
+	<title>MateBoy | uses</title>
     <meta http-equiv="Content-Security-Policy" content="default-src 'none'; font-src 'self'; img-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline'; style-src 'self'">
-    <meta name="description" content="A page detailing what Mathias Borgmalm uses as a web developer.">
+    <meta name="description" content="A page detailing what MateBoy uses as a web developer.">
 </svelte:head>
 
 <h1>/uses</h1>
@@ -34,7 +34,7 @@
         <h3>Other software</h3>
         <ul class="uses-list">
             <li>Music: <a href="https://spotify.com">Spotify</a></li>
-            <li>Note taking: <a href="https://bear.app">Bear</a></li>
+            <li>Note taking: <a href="https://obsidian.md">Obsidian</a></li>
             <li>Passwords: <a href="https://1password.com">1Password</a></li>
             <li>Learning: <a href="https://apps.ankiweb.net/">Anki</a></li>
             <li>To-do list: <a href="https://culturedcode.com/things/">Things</a></li>

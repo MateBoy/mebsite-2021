@@ -1,13 +1,13 @@
 <svelte:head>
-	<title>Mathias Borgmalm | Home</title>
+	<title>MateBoy | Home</title>
   <meta http-equiv="Content-Security-Policy" content="default-src 'none'; font-src 'self'; img-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline'; style-src 'self'">
-  <meta name="description" content="The start page of Swedish front end developer Mathias Borgmalm">
+  <meta name="description" content="The start page of Swedish front end developer MateBoy">
 </svelte:head>
 
 <div class="intro">
     <div class="intro__text">
         <h1 class="kanji">神贈</h1>
-        <h1 class="headline">Hello, I'm Mathias Borgmalm. I'm a <em>front end developer</em> based in Stockholm, <span class="swe">Sweden</span>.</h1>
+        <h1 class="headline">Hello, I'm MateBoy. I'm a <em>front end developer</em> based in Stockholm, <span class="swe">Sweden</span>.</h1>
 
         <p>
         I have five years of experience working with HTML, CSS and JavaScript. When I'm not writing code, I enjoy <a href="https://last.fm/user/MeTRoD">listening to music</a>, <a href="https://www.discogs.com/user/MateBoy/collection">collecting vinyl records</a>, <a href="https://howlongtobeat.com/user?n=MateBoy">playing video games</a>, <a href="https://letterboxd.com/MateBoy/">and watching movies</a>.
