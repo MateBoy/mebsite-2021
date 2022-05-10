@@ -17,8 +17,8 @@
         </p>
     </div>
     <picture>
-      <source srcset="./assets/memoji2.webp" type="image/webp">
-      <img src="./assets/memoji2.png" class="intro__image" alt="Me as a Memoji" width="250" height="250">
+      <source srcset="./assets/Memoji-2022.webp" type="image/webp">
+      <img src="./assets/Memoji-2022.png" class="intro__image" alt="Me as a Memoji" width="250" height="250">
     </picture>
 </div>
 
